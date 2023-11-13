@@ -16,7 +16,7 @@ class Turn
 
     if player_answer.to_i == q_and_a[1]
 
-      puts "Boom!#{self.player.name} you are correct."
+      puts "Boom! #{self.player.name} you are correct."
     else 
       puts "Wrong. You weren't even close #{self.player.name}."
       self.player.remove_life

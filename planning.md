@@ -18,12 +18,8 @@ question
 initialize
 
 - variables
-- two numbers between 1 and 20 + - / \*
-- answer
+- two numbers between 1 and 20 + - \* %
 
 game loop?
 main contains game loop
-
-turn will manage who the current player is
-
-which class will contain user input/output
+main will manage who the current player is

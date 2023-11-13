@@ -2,7 +2,6 @@ require './player'
 require './turn'
 require './question'
 
-
 puts "Enter Player 1's name: "
 player_1_name = gets.chomp
 puts "Enter Player 2's name: "
